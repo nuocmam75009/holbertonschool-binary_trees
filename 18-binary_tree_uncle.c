@@ -3,7 +3,7 @@
 /**
  * binary_tree_uncle - find the uncle of a node
  * @node: pointer to the node to find the uncle
- * 
+ *
  * Return: node, or NULL if node is NULL or has no uncle
  */
 
